@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张宇豪 
+title: Yuhao Zhang 
 
 # Name pronunciation (optional)
-name_pronunciation: Yuhao Zhang
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Yuhao
@@ -45,9 +45,9 @@ profiles:
     url: https://github.com/yuhaoz2
 
 interests:
-  - Controlled Systems
-  - Safe Control
-  - Verification of Neural Networks
+  - Autonomous systems and controls
+  - Provably correct control design for safety-critical systems
+  - Analysis, verification and control for learning-enabled systems
 
 education:
   - area: Ph.D. Mechenical Engineering
@@ -55,55 +55,84 @@ education:
     date_start: 2020-09-01
     date_end: 2025-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Advised by Prof. Xiangru Xu at the UW ARC Lab. My research focus on safety and stability analysis of controlled system with Artificial Neural Network components.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Nonlinear Optimization
+      - Advanced Computational Dynamics
+      - Dynamic Programming
+      - High Performance Computing for Engineering Applications
+      - Artifical Neural Networks
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: MSE Mechenical Engineering
+    institution: University of Michigan-Ann Arbor
+    date_start: 2017-09-01
+    date_end: 2019-05-02
     summary: |
-      GPA: 3.4/4.0
+      Advised by Prof. Necmiye Ozay and Prof. Jean-Baptiste Jeannin.
+
+      Courses included:
+      - Linear System Theory
+      - Self-Driving Cars: Perception and Control
+      - Control System Analysis and Design
+      - Robot Kinematics and Dynamics
+      - Finite Element Methods in Mechanical Engineering
+  - area: BEng Energy and Power Engineering
+    institution: Peking University
+    date_start: 2013-09-01
+    date_end: 2017-06-30
+    summary: |
+      Double major in Economics at the National School of Development.
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Heat and Mass Transfer
+      - Physical Chemistry
+      - Engineering Thermodynamics
+      - Data Structure and Algorithm
+      - Numerical Simulation
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Research Assistant
+    company_name: University of Wisconsin-Madison
+    company_url: 'https://xu.me.wisc.edu/'
+    company_logo: 'content/authors/admin/thumbnail_ARC Logo_With Text 1.png'
+    date_start: 2020-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Representative projects:
+      - Safety-Critical Control with Measurement and Actuation Uncertainties
+      - Safety Verification of Neural Network Control Systems
+      - Robust Stability of Neural Network Control Systems with Uncertainties
+
+  - position: Research Assistant
+    company_name: University of Michigan-Ann Arbor
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2020-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Representative projects:
+      - A software architecture for autonomous taxiing of aircraft
+      - Falsification of a vision-based automatic landing system
+
+  - position: Undergraduate Research Assistant
+    company_name: Peking University
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-02-01
+    date_end: 2017-06-30
+    summary: |
+      Worked on experimental and simulation study of methanol MILD combustion in boilers, under the supervision of Prof. Jianchun Mi at the Laboratory of Turbulence and Complex Systems.
+
+  - position: Summer Research Intern
+    company_name: The Chinese University of Hong Kong
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-07-01
+    date_end: 2016-08-31
+    summary: |
+      Worked on harvesting kinetic energy from human motion and vibrations under the supervision of Prof. Wei-Hsin Liao.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -112,69 +141,77 @@ skills:
     items:
       - name: Python
         description: ''
+        percent: 90
+        icon: code-bracket
+      - name: MATLAB
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: C++
+        description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Swimming
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 80
+        icon: "custom/person-swimming-solid"
       - name: Cats
         description: ''
-        percent: 100
+        percent: 90
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 70
         icon: camera
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Student Research Grants Competition (SRGC) Award
+    url:
+    date: '2023'
+    awarder: University of Wisconsin-Madison Graduate School
+    icon: 
+    
+  - title: LeRoy Fellowship
+    url:
+    date: '2023'
+    awarder: Department of Mechanical Engineering， University of Wisconsin-Madison 
+    icon: 
+
+  - title: XIA Shouyu and HUANG Yuqin Scholarship
+    url: https://www.coe.pku.edu.cn/newsfocus/fast/5754.html
+    date: '2015 and 2016'
+    awarder: College of Engineering, Peking University
+    icon: 
+    # summary: |
+    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
+  - title: Community Service Award
+    url:
+    date: '2015'
+    awarder: College of Engineering, Peking University
+    icon: 
+
+  - title: Mathematical Olympiad Shandong Division Second prize
+    url: 
+    #certificate_url: https://www.datacamp.com
+    date: '2012'
+    awarder: Chinese Mathematical Society
+    icon: 
+    #summary: |
 ---
 
 ## About Me
