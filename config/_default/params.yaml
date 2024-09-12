@@ -39,7 +39,6 @@ header:
 
 # Site footer
 footer:
-  block: minimal
   copyright:
     notice: '© {year} Yuhao Zhang.'
     license:
