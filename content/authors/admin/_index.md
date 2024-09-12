@@ -95,8 +95,8 @@ education:
 work:
   - position: Research Assistant
     company_name: University of Wisconsin-Madison
-    company_url: 'https://xu.me.wisc.edu/'
-    company_logo: 'content/authors/admin/thumbnail_ARC Logo_With Text 1.png'
+    company_url: ''
+    company_logo: ''
     date_start: 2020-09-01
     date_end: ''
     summary: |2-
