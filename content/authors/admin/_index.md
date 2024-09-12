@@ -167,7 +167,7 @@ skills:
       - name: Swimming
         description: ''
         percent: 80
-        icon: "person-swimming"
+        icon: person-swimming
       - name: Cats
         description: ''
         percent: 90
