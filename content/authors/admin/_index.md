@@ -39,7 +39,7 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=PHc9FzMAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-2814-7317
-  - icon: "custom/researchgate-brands-solid"
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Yuhao-Zhang-46
   - icon: brands/github
     url: https://github.com/yuhaoz2
