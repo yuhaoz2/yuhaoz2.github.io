@@ -34,7 +34,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo:
+    logo: "assets/media/icons/custom/y.jpg"
       text: "Yuhao Zhang (张宇豪)"
 
 # Site footer
