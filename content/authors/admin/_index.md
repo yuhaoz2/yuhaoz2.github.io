@@ -192,7 +192,7 @@ awards:
     icon: 
 
   - title: XIA Shouyu and HUANG Yuqin Scholarship
-    url: https://www.coe.pku.edu.cn/newsfocus/fast/5754.html
+    url: 'https://www.coe.pku.edu.cn/newsfocus/fast/5754.html'
     date: '2016-05-27'
     awarder: College of Engineering, Peking University
     icon: 
