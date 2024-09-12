@@ -116,6 +116,15 @@ work:
       - A software architecture for autonomous taxiing of aircraft
       - Falsification of a vision-based automatic landing system
 
+  - position: Grader
+    company_name: University of Michigan-Ann Arbor
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-01-09
+    date_end: 2019-05-02
+    summary: |
+      Grading for graduate level course: ECE 560 - Linear Systems Theory
+
   - position: Undergraduate Research Assistant
     company_name: Peking University
     company_url: ''
@@ -158,7 +167,7 @@ skills:
       - name: Swimming
         description: ''
         percent: 80
-        icon: "custom/person-swimming-solid"
+        icon: "person-swimming"
       - name: Cats
         description: ''
         percent: 90
