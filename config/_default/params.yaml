@@ -34,11 +34,12 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: "assets/media/icons/custom/y.jpg"
+    logo: 
       text: "Yuhao Zhang (张宇豪)"
 
 # Site footer
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Yuhao Zhang.'
     license:
