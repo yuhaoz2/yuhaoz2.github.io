@@ -181,19 +181,19 @@ languages:
 awards:
   - title: Student Research Grants Competition (SRGC) Award
     url:
-    date: '2023'
+    date: '2023-04-28'
     awarder: University of Wisconsin-Madison Graduate School
     icon: 
     
   - title: LeRoy Fellowship
     url:
-    date: '2023'
+    date: '2023-09-01'
     awarder: Department of Mechanical Engineering， University of Wisconsin-Madison 
     icon: 
 
   - title: XIA Shouyu and HUANG Yuqin Scholarship
     url: https://www.coe.pku.edu.cn/newsfocus/fast/5754.html
-    date: '2015 and 2016'
+    date: '2016-05-27'
     awarder: College of Engineering, Peking University
     icon: 
     # summary: |
@@ -201,14 +201,14 @@ awards:
 
   - title: Community Service Award
     url:
-    date: '2015'
+    date: '2015-12-01'
     awarder: College of Engineering, Peking University
     icon: 
 
   - title: Mathematical Olympiad Shandong Division Second prize
     url: 
     #certificate_url: https://www.datacamp.com
-    date: '2012'
+    date: '2012-11-01'
     awarder: Chinese Mathematical Society
     icon: 
     #summary: |
