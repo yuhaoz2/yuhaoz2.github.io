@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: sky #emerald
+  color: sky 
+#emerald
 
 # SEO
 marketing:
