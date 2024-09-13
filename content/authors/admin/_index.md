@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Wisconsin-Madison
-    url: https://xu.me.wisc.edu/team/
+    url: https://www.wisc.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,7 +50,7 @@ interests:
   - Analysis, verification and control for learning-enabled systems
 
 education:
-  - area: Ph.D. Mechenical Engineering
+  - area: PhD Mechenical Engineering
     institution: University of Wisconsin-Madison
     date_start: 2020-09-01
     date_end: 2025-08-31
@@ -225,4 +225,8 @@ awards:
 
 ## About Me
 
-I'm a current Ph.D. student at the UW ARC Lab.
+I am currently pursuing a Ph.D. in Mechanical Engineering at <a href="https://www.wisc.edu" target="_blank">the University of Wisconsin–Madison</a>, conducting research at <a href="https://xu.me.wisc.edu/" target="_blank">the UW ARC Lab</a>, under the guidance of Prof. Xiangru Xu. I earned my MSE in Mechanical Engineering from <a href="https://umich.edu/" target="_blank">the University of Wisconsin–Madison</a> in 2019, where I was mentored by <a href="https://web.eecs.umich.edu/~necmiye/" target="_blank">Prof. Necmiye Ozay</a> and <a href="https://websites.umich.edu/~jeannin/" target="_blank">Prof. Jean-Baptiste Jeannin</a>. Prior to that, I completed my Bachelor of Engineering in Energy and Power Engineering at <a href="https://english.pku.edu.cn/" target="_blank">the Peking University</a>, with a double major in Economics from <a href="https://en.nsd.pku.edu.cn/" target="_blank">the National School of Development</a>, in 2017.
+
+I specialize in the theoretical analysis and application of autonomous and controlled systems and familiar with various programming languages, including MATLAB, Python, and C++. In high school, I won second prize in the 2012 National High School Mathematics Competition and ranked in the top 0.1% on the National Higher Education Entrance Examination.
+
+My research focuses on control systems, incorporating optimization and machine learning techniques. The goal of my research is to develop principled analysis and control methodologies for building trustworthy autonomous intelligent systems.
