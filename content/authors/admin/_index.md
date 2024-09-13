@@ -231,4 +231,4 @@ I specialize in the theoretical analysis and application of autonomous and contr
 
 My research focuses on control systems, incorporating optimization and machine learning techniques. The goal of my research is to develop principled analysis and control methodologies for building trustworthy autonomous intelligent systems.
 
-Welcome to contact me at yuhao.zhang2[at]wisc[dot]edu for connection and collaboration!
+Feel free to contact me at yuhao.zhang2[at]wisc[dot]edu for connections and collaboration!
