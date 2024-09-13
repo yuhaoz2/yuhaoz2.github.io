@@ -214,7 +214,7 @@ awards:
     awarder: College of Engineering, Peking University
     icon: 
 
-  - title: Mathematical Olympiad Shandong Division Second prize
+  - title: Second prize in National High School Mathematics Competition
     url: 
     #certificate_url: https://www.datacamp.com
     date: '2012-11-01'
@@ -225,7 +225,7 @@ awards:
 
 ## About Me
 
-I am currently pursuing a Ph.D. in Mechanical Engineering at <a href="https://www.wisc.edu" target="_blank">the University of Wisconsin–Madison</a>, conducting research at <a href="https://xu.me.wisc.edu/" target="_blank">the UW ARC Lab</a>, under the guidance of Prof. Xiangru Xu. I earned my MSE in Mechanical Engineering from <a href="https://umich.edu/" target="_blank">the University of Wisconsin–Madison</a> in 2019, where I was mentored by <a href="https://web.eecs.umich.edu/~necmiye/" target="_blank">Prof. Necmiye Ozay</a> and <a href="https://websites.umich.edu/~jeannin/" target="_blank">Prof. Jean-Baptiste Jeannin</a>. Prior to that, I completed my Bachelor of Engineering in Energy and Power Engineering at <a href="https://english.pku.edu.cn/" target="_blank">the Peking University</a>, with a double major in Economics from <a href="https://en.nsd.pku.edu.cn/" target="_blank">the National School of Development</a>, in 2017.
+I am currently pursuing a Ph.D. in Mechanical Engineering at the <a href="https://www.wisc.edu" target="_blank">University of Wisconsin–Madison</a>, conducting research at the <a href="https://xu.me.wisc.edu/" target="_blank">UW ARC Lab</a>, under the guidance of Prof. Xiangru Xu. I earned my MSE in Mechanical Engineering from the <a href="https://umich.edu/" target="_blank">University of Wisconsin–Madison</a> in 2019, where I was mentored by <a href="https://web.eecs.umich.edu/~necmiye/" target="_blank">Prof. Necmiye Ozay</a> and <a href="https://websites.umich.edu/~jeannin/" target="_blank">Prof. Jean-Baptiste Jeannin</a>. Prior to that, I completed my Bachelor of Engineering in Energy and Power Engineering at <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>, with a double major in Economics from the <a href="https://en.nsd.pku.edu.cn/" target="_blank">National School of Development</a>, in 2017.
 
 I specialize in the theoretical analysis and application of autonomous and controlled systems and familiar with various programming languages, including MATLAB, Python, and C++. In high school, I won second prize in the 2012 National High School Mathematics Competition and ranked in the top 0.1% on the National Higher Education Entrance Examination.
 
