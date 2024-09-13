@@ -42,10 +42,10 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
     #   filters:
     #     folders:
     #       - publication
@@ -53,9 +53,9 @@ sections:
     # design:
     #   view: article-grid
     #   columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
     #   text: ""
     #   filters:
     #     folders:
@@ -63,20 +63,20 @@ sections:
     #     exclude_featured: false
     # design:
     #   view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
     #   filters:
     #     folders:
     #       - event
     # design:
     #   view: article-grid
     #   columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
     #   subtitle: ''
     #   text: ''
     #   # Page type to display. E.g. post, talk, publication...
