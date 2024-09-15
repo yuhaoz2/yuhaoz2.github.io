@@ -14,6 +14,11 @@ design:
 
 
 sections:
+  - block: markdown
+    content:
+    design:
+      image: 
+        filename: header.jpg
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -30,6 +35,7 @@ sections:
       css_class: light
       background:
         color: '#F4F4F4' #black
+        text_color_light: true
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
