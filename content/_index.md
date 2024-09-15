@@ -4,6 +4,10 @@ title: ""
 date: 2024-09-12
 type: landing
 
+banner:
+  image: "/assets/media/header.jpg"
+  caption:
+
 design:
   # Default section spacing
   spacing: "6rem"

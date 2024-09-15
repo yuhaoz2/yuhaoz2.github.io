@@ -3,6 +3,10 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+banner:
+  image: "/assets/media/header.jpg"
+  caption:
+  
 main:
   - name: Bio
     url: /

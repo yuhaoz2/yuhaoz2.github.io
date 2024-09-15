@@ -1,4 +1,8 @@
 ---
+banner:
+  image: "/assets/media/header.jpg"
+  caption:
+  
 # Display name
 title: Yuhao Zhang 
 

@@ -60,7 +60,6 @@ features:
   privacy_pack:
     enable: false
 
-
 banner:
-  image: 'header.jpg'
+  image: "/assets/media/header.jpg"
   caption:
