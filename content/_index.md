@@ -23,6 +23,9 @@ sections:
         text: Download CV
         url: #uploads/resume.pdf
     design:
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: 'header.jpg'
       css_class: dark
       background:
         color: black
