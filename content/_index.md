@@ -21,7 +21,7 @@ sections:
       background:
         image: 
           filename: header.jpg
-      spacing: "24rem"
+      #spacing: "24rem"
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
