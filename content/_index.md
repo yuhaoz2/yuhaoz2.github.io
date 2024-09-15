@@ -16,6 +16,7 @@ design:
 sections:
   - block: markdown
     content:
+      title: ''
     design:
       background:
         image: 
