@@ -38,10 +38,6 @@ header:
     logo: 
       text: "Yuhao Zhang (张宇豪)"
 
-banner:
-  image: 'header.jpg'
-  caption:
-
 # Site footer
 footer:
   copyright:
@@ -63,3 +59,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+
+banner:
+  image: 'header.jpg'
+  caption:
