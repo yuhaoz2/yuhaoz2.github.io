@@ -7,7 +7,4 @@ cascade:
     render: never
     list: always
 
-banner:
-  image: "/assets/media/header.jpg"
-  caption:
 ---

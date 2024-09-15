@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: emerald 
 #emerald
 
@@ -34,7 +34,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: false
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo: 
       text: "Yuhao Zhang (张宇豪)"
 
@@ -59,7 +59,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-banner:
-  image: "/assets/media/header.jpg"
-  caption:

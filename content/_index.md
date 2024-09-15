@@ -14,9 +14,8 @@ design:
 
 
 sections:
-  - block: markdown
+  - block: resume-biography-3
     content:
-      title: ''
     design:
       background:
         image: 
