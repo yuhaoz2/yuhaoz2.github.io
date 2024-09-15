@@ -14,12 +14,13 @@ design:
 
 
 sections:
-  - block: resume-biography-3
+  - block: markdown
     content:
     design:
       background:
         image: 
           filename: header.jpg
+      spacing: "24rem"
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
