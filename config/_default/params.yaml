@@ -38,6 +38,10 @@ header:
     logo: 
       text: "Yuhao Zhang (张宇豪)"
 
+banner:
+  image: 'header.jpg'
+  caption:
+
 # Site footer
 footer:
   copyright:

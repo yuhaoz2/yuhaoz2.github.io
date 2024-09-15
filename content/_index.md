@@ -8,9 +8,6 @@ design:
   # Default section spacing
   spacing: "6rem"
 
-banner:
-  image: 'header.jpg'
-  caption:
 
 sections:
   - block: resume-biography-3
@@ -23,20 +20,20 @@ sections:
         text: Download CV
         url: #uploads/resume.pdf
     design:
-      banner:
-        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        filename: 'header.jpg'
+      # banner:
+      #   # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+      #   filename: 'header.jpg'
       css_class: dark
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        color: '#F4F4F4' #black
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: stacked-peaks.svg
+        #   filters:
+        #     brightness: 1.0
+        #   size: cover
+        #   position: center
+        #   parallax: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
