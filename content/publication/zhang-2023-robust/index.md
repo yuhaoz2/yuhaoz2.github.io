@@ -7,5 +7,5 @@ date: '2024-01-01'
 publishDate: '2024-09-15T23:04:53.113486Z'
 publication_types:
 - article-journal
-publication: '*Automatica*'
+publication: '*Automatica (provisionally accepted)*'
 ---
