@@ -4,24 +4,19 @@ title: ""
 date: 2024-09-12
 type: landing
 
-banner:
-  image: "/assets/media/header.jpg"
-  caption:
-
 design:
   # Default section spacing
   spacing: "6rem"
 
 
 sections:
-  - block: markdown
-    content:
-      title: ''
-    design:
-      background:
-        image: 
-          filename: header.jpg
-      #spacing: "24rem"
+  # - block: markdown
+  #   content:
+  #     title: ''
+  #   design:
+  #     background:
+  #       image: 
+  #         filename: header.jpg
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
