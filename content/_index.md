@@ -89,7 +89,7 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
+      view: showcase #article-grid
       columns: 1
       background:
         color: white #black
