@@ -30,7 +30,7 @@ publishDate: '2024-09-15T00:00:00Z'
 publication_types: ['article-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: *AIAA Scitech 2020 Forum*'
+publication: '*AIAA Scitech 2020 Forum*'
 publication_short: ''
 
 abstract: Recent progress in self-driving capabilities of cars suggests that one could also automate aircraft taxi operations, a seemingly easier problem. In this paper we describe a high-level software architecture for self-taxiing, and we identify its specific challenges. The architecture is selected to ease the mapping of specifications to the different implemented functionalities, allowing for modular verification. We then focus on two of the modules in this architecture. We describe how to obtain a low-level list of taxiways from high-level Air Traffic Control instructions, and how to design GPS-based controllers for lateral and longitudinal control of the aircraft. This architecture is implemented in simulation based on the X-Plane flight simulator, for which different controllers for one of the low-level functionalities is evaluated using falsification tools S-TaLiRo and Breach.

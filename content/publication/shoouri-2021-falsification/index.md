@@ -31,7 +31,7 @@ publishDate: '2024-09-15T00:00:00Z'
 publication_types: ['article-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: *AIAA Scitech 2021 Forum*'
+publication: '*AIAA Scitech 2021 Forum*'
 publication_short: ''
 
 abstract: At smaller airports without an instrument approach or advanced equipment, automatic landing of aircraft is a safety-critical task that requires the use of sensors present on the aircraft. In this paper, we study falsification of an automatic landing system for fixed-wing aircraft using a camera as its main sensor. We first present an architecture for vision-based automatic landing, including a vision-based runway distance and orientation estimator and an associated PID controller. We then outline landing specifications that we validate with actual flight data. Using these specifications, we propose the use of the falsification tool Breach to find counterexamples to the specifications in the automatic landing system.
