@@ -15,8 +15,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Ph.D. sutudent in Mechanical Engineering at the University of Wisconsin-Madison.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -59,3 +59,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+publications:
+  date_format: January 2006
+  citation_style: MLA

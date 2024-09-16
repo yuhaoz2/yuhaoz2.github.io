@@ -101,9 +101,9 @@ work:
     date_end: ''
     summary: |2-
       Representative projects:
-      - Safety-Critical Control with Measurement and Actuation Uncertainties
-      - Safety Verification of Neural Network Control Systems
-      - Robust Stability of Neural Network Control Systems with Uncertainties
+      - Designed controller for safety-critical systems with measurement and actuation uncertainties, and tested it in both simulations and quadcopter experiments.
+      - Developed optimization-based techniques for formal safety verification and reachability analysis of controlled systems with Artificial Neural Network components. 
+      - Proposed provable stability conditions for Neural Network Control Systems with dynamics uncertainties.
 
   - position: Research Assistant
     company_name: University of Michigan-Ann Arbor
@@ -113,8 +113,9 @@ work:
     date_end: 2020-06-30
     summary: |
       Representative projects:
-      - A software architecture for autonomous taxiing of aircraft
-      - Falsification of a vision-based automatic landing system
+      - Designed a high-level architecture for autonomous taxiing of aircraft.
+      - Implemented separate modules for the proposed architecture which includes a path finding algorithm, a taxi-way waypoint generator and a low-level tracking controller.
+      - Employed falsification techniques to evaluate the performance of the designed controllers.
 
   - position: Grader
     company_name: University of Michigan-Ann Arbor
@@ -123,7 +124,7 @@ work:
     date_start: 2019-01-09
     date_end: 2019-05-02
     summary: |
-      Grading for graduate level course: ECE 560 - Linear Systems Theory
+      - Grading for graduate level course: ECE 560 - Linear Systems Theory
 
   - position: Undergraduate Research Assistant
     company_name: Peking University
@@ -132,7 +133,7 @@ work:
     date_start: 2016-02-01
     date_end: 2017-06-30
     summary: |
-      Worked on experimental and simulation study of methanol MILD combustion in boilers, under the supervision of Prof. Jianchun Mi at the Laboratory of Turbulence and Complex Systems.
+      - Worked on experimental and simulation study of methanol MILD combustion in boilers, under the supervision of Prof. Jianchun Mi at the Laboratory of Turbulence and Complex Systems.
 
   - position: Summer Research Intern
     company_name: The Chinese University of Hong Kong
@@ -141,7 +142,7 @@ work:
     date_start: 2016-07-01
     date_end: 2016-08-31
     summary: |
-      Worked on harvesting kinetic energy from human motion and vibrations under the supervision of Prof. Wei-Hsin Liao.
+      - Worked on harvesting kinetic energy from human motion and vibrations under the supervision of Prof. Wei-Hsin Liao.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -160,6 +161,14 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: CUDA
+        description: ''
+        percent: 80
+        icon: cpu-chip
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: computer-desktop
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -168,10 +177,10 @@ skills:
         description: ''
         percent: 80
         icon: "custom/person-swimming-solid"
-      - name: Cats
-        description: ''
-        percent: 90
-        icon: cat
+      # - name: Cats
+      #   description: ''
+      #   percent: 90
+      #   icon: cat
       - name: Photography
         description: ''
         percent: 70
