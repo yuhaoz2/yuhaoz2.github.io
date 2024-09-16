@@ -123,6 +123,9 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+      background:
+        color: '#F4F4F4' #black
+        text_color_light: false
   # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site
   #   content:
