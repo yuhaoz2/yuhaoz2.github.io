@@ -65,8 +65,9 @@ sections:
     design:
       view: article-grid
       columns: 2
-      color: white #black
-      text_color_light: false
+      background:
+        color: white #black
+        text_color_light: false
   - block: collection
     content:
       title: Recent Publications
@@ -77,8 +78,9 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      color: '#F4F4F4' #black
-      text_color_light: false
+      background:
+        color: '#F4F4F4' #black
+        text_color_light: false
   # - block: collection
   #   id: talks
   #   content:
