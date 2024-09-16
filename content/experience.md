@@ -17,17 +17,27 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
+      background:
+        color: '#F4F4F4' #black
+        text_color_light: false
   - block: resume-skills
     content:
       title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
+      background:
+        color: white #black
+        text_color_light: false
   - block: resume-awards
     content:
       title: Awards
       username: admin
+    design:
+      background:
+        color: '#F4F4F4' #black
+        text_color_light: false
   # - block: resume-languages
   #   content:
   #     title: Languages
