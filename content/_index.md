@@ -81,16 +81,19 @@ sections:
       background:
         color: '#F4F4F4' #black
         text_color_light: false
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-    #   filters:
-    #     folders:
-    #       - event
-    # design:
-    #   view: article-grid
-    #   columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+      background:
+        color: white #black
+        text_color_light: false
   # - block: collection
   #   id: news
   #   content:
