@@ -28,7 +28,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: '*IEEE Control Systems Letters*'
-publication_short: '*IEEE L-CSS*'
+publication_short: ''
 
 abstract: The surging popularity of neural networks in controlled systems underscores the imperative for formal verification to ensure the reliability and safety of such systems. Existing set propagation-based approaches for reachability analysis in neural network control systems encounter challenges in scalability and flexibility. This letter introduces a novel tunable hybrid zonotope-based method for computing both forward and backward reachable sets of neural network control systems. The proposed method incorporates an optimization-based network reduction technique and an activation pattern-based hybrid zonotope propagation approach for ReLU-activated feedforward neural networks. Furthermore, it enables two tunable parameters to balance computational complexity and approximation accuracy. A numerical example is provided to illustrate the performance and tunability of the proposed approach.
 
