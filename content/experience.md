@@ -38,6 +38,31 @@ sections:
       background:
         color: '#F4F4F4' #black
         text_color_light: false
+  - block: resume-service
+    content:
+      title: Services
+      username: admin
+    design:
+      background:
+        color: white #black
+        text_color_light: false
+
+  - block: markdown
+    id: service
+    content:
+      title: Services
+      subtitle: 
+      text: 
+        - IEEE CDC 2021,2022,2023,2024, Reviewer 
+        - ACC 2022,2023,2024, Reviewer 
+        - IEEE L-CSS, Reviewer
+        - IEEE TCST, Reviewer
+        - Control Engineering Practice, Reviewer
+    design:
+      background:
+        color: white #black
+        text_color_light: false
+  
   # - block: resume-languages
   #   content:
   #     title: Languages
