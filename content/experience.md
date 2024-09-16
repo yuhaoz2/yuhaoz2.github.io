@@ -46,21 +46,6 @@ sections:
       background:
         color: white #black
         text_color_light: false
-  - block: markdown
-    content:
-      title: 'Services'
-      subtitle: ''
-      text: |-
-        - IEEE CDC 2021,2022,2023,2024, Reviewer 
-        - ACC 2022,2023,2024, Reviewer 
-        - IEEE L-CSS, Reviewer
-        - IEEE TCST, Reviewer
-        - Control Engineering Practice, Reviewer
-    design:
-      columns: '1'
-      background:
-        color: white #black
-        text_color_light: false
   
   # - block: resume-languages
   #   content:
