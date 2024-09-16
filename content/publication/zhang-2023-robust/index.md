@@ -47,7 +47,7 @@ links:
 # - name: DOI
 #   url: https://doi.org/10.1109/LCSYS.2024.3415471
 
-url_pdf: 'https://arxiv.org/pdf/2310.06921'
+url_pdf: 'https://arxiv.org/pdf/2311.15109'
 url_code: ''
 url_dataset: ''
 url_poster: ''
