@@ -11,9 +11,9 @@ authors:
   - Xiangru Xu
 
 # Author notes (optional)
-<!-- author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution' -->
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2024-06-17T00:00:00Z'
 doi: '10.1109/LCSYS.2024.3415471'
