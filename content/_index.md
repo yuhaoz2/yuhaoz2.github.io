@@ -13,7 +13,8 @@ sections:
   - block: markdown
     content:
       title: ''
-      text: {{< figure src="/images/header.jpg" title="" width="400">}}
+      text: |
+          ![Alt](/images/header.jpg)
     design:
       # background:
       #   image: 
