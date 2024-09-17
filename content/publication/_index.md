@@ -8,7 +8,7 @@ view: citation
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
-  image: 'header.jpg'
+  image: '/media/header.jpg'
 
 # design:
 #   background:
