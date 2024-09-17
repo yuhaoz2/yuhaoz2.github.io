@@ -54,8 +54,8 @@ sections:
         color: white #black
         text_color_light: false
   
-  # - block: resume-languages
-  #   content:
-  #     title: Languages
-  #     username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
