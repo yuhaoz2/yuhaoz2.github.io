@@ -13,7 +13,7 @@ sections:
   - block: markdown
     content:
       title: ''
-      text: ![Alt text](https://github.com/yuhaoz2/yuhaoz2.github.io/blob/main/assets/media/header.jpg)
+      text: ![Alt](/images/header.jpg)
     design:
       # background:
       #   image: 
