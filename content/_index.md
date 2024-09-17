@@ -13,10 +13,11 @@ sections:
   - block: markdown
     content:
       title: ''
+      text: ![screen reader text](header.jpg "")
     design:
-      background:
-        image: 
-          filename: header.jpg
+      # background:
+      #   image: 
+      #     filename: header.jpg
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['100px', '0', '100px', '0']
