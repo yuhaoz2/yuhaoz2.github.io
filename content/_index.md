@@ -10,13 +10,16 @@ design:
 
 
 sections:
-  # - block: markdown
-  #   content:
-  #     title: ''
-  #   design:
-  #     background:
-  #       image: 
-  #         filename: header.jpg
+  - block: markdown
+    content:
+      title: ''
+    design:
+      background:
+        image: 
+          filename: header.jpg
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['100px', '0', '100px', '0']
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
