@@ -1,6 +1,6 @@
 ---
-title: 'Control barrier function meets interval analysis: Safety-critical control
-  with measurement and actuation uncertainties'
+title: 'Control Barrier Function Meets Interval Analysis: Safety-Critical Control
+  with Measurement and Actuation Uncertainties'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -1,5 +1,5 @@
 ---
-title: 'Backward reachability analysis of neural feedback systems using hybrid zonotopes'
+title: 'Backward Reachability Analysis of Neural Feedback Systems Using Hybrid Zonotopes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

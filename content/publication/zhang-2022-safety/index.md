@@ -1,5 +1,5 @@
 ---
-title: 'Safety verification of neural feedback systems based on constrained zonotopes'
+title: 'Safety Verification of Neural Feedback Systems Based on Constrained Zonotopes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

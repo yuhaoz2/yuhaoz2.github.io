@@ -1,6 +1,6 @@
 ---
-title: 'Reachability analysis and safety verification of neural feedback systems via
-  hybrid zonotopes'
+title: 'Reachability Analysis and Safety Verification of Neural Feedback Systems via
+  Hybrid Zonotopes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -1,5 +1,5 @@
 ---
-title: 'Falsification of a vision-based automatic landing system'
+title: 'Falsification of a Vision-based Automatic Landing System'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
