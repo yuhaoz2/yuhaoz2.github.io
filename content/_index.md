@@ -10,18 +10,18 @@ design:
 
 
 sections:
-  - block: markdown
-    content:
-      title: ''
-      text: |
-        <img src="/images/header.jpg" width="500">
-    design:
-      background:
-        image: 
-          filename: headerh.jpg
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['100px', '0', '100px', '0']
+  # - block: markdown
+  #   content:
+  #     title: ''
+  #     text: |
+  #       <img src="/images/header.jpg" width="500">
+  #   design:
+  #     background:
+  #       image: 
+  #         filename: headerh.jpg
+  #     spacing:
+  #       # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['100px', '0', '100px', '0']
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
