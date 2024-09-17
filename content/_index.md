@@ -14,7 +14,7 @@ sections:
     content:
       title: ''
       text: |
-          <img src="/images/header.jpg" width="500">
+          <img src="/images/header.jpg" width="1500">
     design:
       # background:
       #   image: 
