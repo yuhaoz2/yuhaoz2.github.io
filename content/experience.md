@@ -58,4 +58,8 @@ sections:
     content:
       title: Languages
       username: admin
+    design:
+      background:
+        color: '#F4F4F4' #black
+        text_color_light: false
 ---
