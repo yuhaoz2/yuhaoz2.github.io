@@ -6,4 +6,8 @@ cascade:
   _build:
     render: never
     list: always
+
+banner:
+  image: 'header.jpg'
+  caption: ''
 ---

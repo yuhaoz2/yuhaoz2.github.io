@@ -232,9 +232,7 @@ awards:
     #summary: |
 
 
-banner:
-  image: 'header.jpg'
-  caption: ''
+c
 ---
 
 ## About Me
