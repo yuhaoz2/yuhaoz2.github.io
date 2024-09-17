@@ -13,7 +13,8 @@ sections:
   - block: markdown
     content:
       title: ''
-      text: 
+      text: |
+        <img src="/images/header.jpg" width="500">
     design:
       background:
         image: 
