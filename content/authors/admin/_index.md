@@ -230,11 +230,6 @@ awards:
     awarder: Chinese Mathematical Society
     icon: 
     #summary: |
-
-
-banner:
-  image: 'header.jpg'
-  caption: ''
 ---
 
 ## About Me
