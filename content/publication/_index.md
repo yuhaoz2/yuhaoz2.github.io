@@ -10,8 +10,8 @@ banner:
   caption: ''
   image: ''
 
-design:
-  background:
-    color: '#F4F4F4' #black
-    text_color_light: false
+# design:
+#   background:
+#     color: '#F4F4F4' #black
+#     text_color_light: false
 ---

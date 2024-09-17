@@ -13,7 +13,7 @@ sections:
   - block: markdown
     content:
       title: ''
-      text: ![screen reader text](header.jpg "")
+      text: ![Alt text](assets/media/header.jpg)
     design:
       # background:
       #   image: 
