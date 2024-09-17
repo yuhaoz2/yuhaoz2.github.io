@@ -14,7 +14,7 @@ sections:
     content:
       title: ''
       text: |
-          ![Alt](/images/header.jpg)
+          ![Alt](/images/header.jpg =500x)
     design:
       # background:
       #   image: 
