@@ -36,7 +36,7 @@ sections:
       #   # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
       #   filename: 'header.jpg'
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
+        padding: ['1rem', 0, '6rem', 0]
       css_class: light
       background:
         color: '#F4F4F4' #black
