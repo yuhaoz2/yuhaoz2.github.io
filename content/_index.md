@@ -13,12 +13,11 @@ sections:
   - block: markdown
     content:
       title: ''
-      text: |
-          <img src="/images/header.jpg" width="1500">
+      text: 
     design:
-      # background:
-      #   image: 
-      #     filename: header.jpg
+      background:
+        image: 
+          filename: headerw.jpg
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['100px', '0', '100px', '0']
