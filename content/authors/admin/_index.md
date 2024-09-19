@@ -205,7 +205,7 @@ awards:
     
   - title: LeRoy Fellowship
     url:
-    date: '2023-09-01'
+    date: '2020-09-01'
     awarder: Department of Mechanical Engineering， University of Wisconsin-Madison 
     icon: 
 
