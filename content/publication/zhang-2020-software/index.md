@@ -59,7 +59,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=NcBEo81lKG4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -84,6 +84,7 @@ projects: []
 slides: '' #example
 ---
 
+{{< youtube NcBEo81lKG4 >}}
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
