@@ -43,11 +43,13 @@ sections:
       title: 'Services'
       subtitle: ''
       text: |-
-        - IEEE CDC 2021,2022,2023,2024, Reviewer 
-        - ACC 2022,2023,2024, Reviewer 
-        - IEEE L-CSS, Reviewer
-        - IEEE TCST, Reviewer
+        - IEEE Transactions on Control Systems Technology (TCST), Reviewer
+        - IEEE Control Systems Letters (L-CSS), Reviewer
         - Control Engineering Practice, Reviewer
+        - IEEE Conference on Decision and Control (CDC) 2021,2022,2023,2024, Reviewer 
+        - American Control Conference (ACC) 2022,2023,2024, Reviewer 
+        - IEEE International Conference on Robotics and Automation (ICRA) 2023, Reviewer
+        - Annual Learning for Dynamics and Control Conference (L4DC) 2023, Reviewer
     design:
       columns: '1'
       background:
