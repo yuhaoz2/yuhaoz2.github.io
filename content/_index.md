@@ -30,7 +30,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/YuhaoCV.pdf
+        url: uploads/CV_Yuhao.pdf
     design:
       # banner:
       #   # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
