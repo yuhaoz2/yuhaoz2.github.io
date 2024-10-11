@@ -48,7 +48,7 @@ sections:
         - Systems & Control Letters, Reviewer
         - Control Engineering Practice, Reviewer
         - IEEE Conference on Decision and Control (CDC) 2021,2022,2023,2024, Reviewer 
-        - American Control Conference (ACC) 2022,2023,2024, Reviewer 
+        - American Control Conference (ACC) 2022,2023,2024,2025, Reviewer 
         - IEEE International Conference on Robotics and Automation (ICRA) 2023, Reviewer
         - Annual Learning for Dynamics and Control Conference (L4DC) 2023, Reviewer
     design:
