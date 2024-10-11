@@ -45,6 +45,7 @@ sections:
       text: |-
         - IEEE Transactions on Control Systems Technology (TCST), Reviewer
         - IEEE Control Systems Letters (L-CSS), Reviewer
+        - Systems & Control Letters, Reviewer
         - Control Engineering Practice, Reviewer
         - IEEE Conference on Decision and Control (CDC) 2021,2022,2023,2024, Reviewer 
         - American Control Conference (ACC) 2022,2023,2024, Reviewer 
