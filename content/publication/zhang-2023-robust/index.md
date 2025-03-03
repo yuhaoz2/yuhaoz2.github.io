@@ -13,7 +13,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-11-25T00:00:00Z'
+date: '2025-02-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publishDate: '2024-09-15T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Automatica* (provisionally accepted)'
+publication: '*Automatica* (accepted)'
 publication_short: ''
 
 abstract: Neural networks have gained popularity in controller design due to their versatility and efficiency, but their integration into feedback systems can compromise stability, especially in the presence of uncertainties. This paper addresses the challenge of certifying robust stability in neural network control systems with interval matrix uncertainties. By leveraging classic robust stability techniques and the recent quadratic constraint-based method to abstract the input-output relationship imposed by neural networks, we present novel robust stability certificates that are formulated in the form of linear matrix inequalities. Three relaxed sufficient conditions are introduced to mitigate computational complexity. The equivalence of these conditions in terms of feasibility, as well as their connections with existing robust stability results, are also established. The proposed method is demonstrated by two numerical examples.
