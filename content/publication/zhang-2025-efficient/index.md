@@ -43,8 +43,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: DOI
-  url: 'https://arxiv.org/abs/2503.10840'
+#- name: DOI
+#  url: 'https://arxiv.org/abs/2503.10840'
 
 url_pdf: 'https://arxiv.org/abs/2503.10840'
 url_code: ''
