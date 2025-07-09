@@ -53,7 +53,7 @@ education:
   - area: PhD Mechenical Engineering
     institution: University of Wisconsin-Madison
     date_start: 2020-09-01
-    date_end: 2025-08-31
+    date_end: 2025-12-31
     summary: |
       Advised by Prof. Xiangru Xu at the UW ARC Lab. My research focus on safety and stability analysis of controlled system with Artificial Neural Network components.
 
