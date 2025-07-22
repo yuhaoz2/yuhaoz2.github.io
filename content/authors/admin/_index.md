@@ -199,6 +199,12 @@ languages:
 awards:
   - title: Student Research Grants Competition (SRGC) Award
     url:
+    date: '2025-06-11'
+    awarder: University of Wisconsin-Madison Graduate School
+    icon:
+
+  - title: Student Research Grants Competition (SRGC) Award
+    url:
     date: '2023-04-28'
     awarder: University of Wisconsin-Madison Graduate School
     icon: 
