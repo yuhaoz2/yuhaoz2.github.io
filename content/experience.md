@@ -46,6 +46,7 @@ sections:
         - Automatica, Reviewer
         - IEEE Transactions on Control Systems Technology (TCST), Reviewer
         - IEEE Control Systems Letters (L-CSS), Reviewer
+        - IEEE Robotics and Automation Letters (RA-L), Reviewer
         - Systems & Control Letters, Reviewer
         - Control Engineering Practice, Reviewer
         - IEEE Conference on Decision and Control (CDC) 2021,2022,2023,2024,2025 Reviewer 
