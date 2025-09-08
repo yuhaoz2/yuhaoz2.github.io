@@ -46,6 +46,7 @@ profiles:
 
 interests:
   - Autonomous systems and controls
+  - Optimization and high-performance computation
   - Provably correct control design for safety-critical systems
   - Analysis, verification and control for learning-enabled systems
 
@@ -100,10 +101,19 @@ work:
     date_start: 2020-09-01
     date_end: ''
     summary: |2-
-      Representative projects:
-      - Designed controller for safety-critical systems with measurement and actuation uncertainties, and tested it in both simulations and quadcopter experiments.
-      - Developed optimization-based techniques for formal safety verification and reachability analysis of controlled systems with Artificial Neural Network components. 
-      - Proposed provable stability conditions for Neural Network Control Systems with dynamics uncertainties.
+      Safety-critical control with measurement and actuation uncertainties:
+      - Developed a provably safe feedback controller using sampled-data Control Barrier Functions (CBFs) and convex optimization for nonlinear systems with measurement and actuation uncertainties.
+      - Implemented the controller on Franka Research 3 robot manipulator and Crazyflie quadrotor, achieving real-time obstacle avoidance where conventional controllers failed.
+      
+      Scalable verification of learning-enabled systems:
+      - Designed an efficient and tunable method for safety verification of perception-based autonomous systems using set-based computation and optimization techniques (LP, MILP, SDP).
+      - Accelerated robustness and sensitivity analysis of large-scale neural networks by 10x compared to baseline tools, through a novel local NN compression method and MILP cutting-plane techniques.
+      - Integrated verification results into controller design, achieving provably safe goal-reaching and obstacle avoidance for robotic systems with machine learning components.
+      - Applied parallelization (CUDA, OpenMP) to accelerate Monte Carlo reachability and real-time state estimation for high-dimensional nonlinear systems.
+
+      Robust stability of neural network control systems: 
+      - Derived new robust stability conditions via Linear Matrix Inequalities and quadratic constraints, enlarging the certified stability region by 5x over baseline methods.
+      - Developed a data-driven, provably stable controller design and verification framework for uncertain and disturbed systems without requiring system identification.
 
   - position: Research Assistant
     company_name: University of Michigan-Ann Arbor
@@ -112,10 +122,13 @@ work:
     date_start: 2018-09-01
     date_end: 2020-06-30
     summary: |
-      Representative projects:
-      - Designed a high-level architecture for autonomous taxiing of aircraft.
-      - Implemented separate modules for the proposed architecture which includes a path finding algorithm, a taxi-way waypoint generator and a low-level tracking controller.
-      - Employed falsification techniques to evaluate the performance of the designed controllers.
+      Hierarchical control for autonomous aircraft taxiing:
+      - Built a hierarchical architecture for autonomous taxiing, including high-level graph-based path planning, mid-level trajectory generation, and low-level tracking control.
+      - Ensured safety-by-design control of aircraft taxiing by integrating ATC-level constraints (e.g., runway selection) and ground-level requirements (e.g., speed limits, obstacle avoidance) using graph theory and MPC.
+      
+      Perception-based autonomous aircraft landing:
+      - Developed vision-based landing control using camera sensing, PID control, YOLO detection, SIFT feature extraction, and geometric state estimation via Perspective-n-Point algorithms.
+      - Validated the proposed algorithms in the X-Plane 11 high-fidelity flight simulator.
 
   - position: Grader
     company_name: University of Michigan-Ann Arbor
@@ -126,6 +139,18 @@ work:
     summary: |
       - Grading for graduate level course: ECE 560 - Linear Systems Theory
 
+  - position: Course Project
+    company_name: University of Michigan-Ann Arbor
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2018-12-31
+    summary: |
+      Robot kinematics and dynamics:
+      - Implemented PID control for robotic manipulators in joint-space and Cartesian-space, and designed a whole-body controller based on quadratic programming to satisfy physical and task constraints.
+      - Generated optimal manipulator trajectories in cluttered environments using advanced planning and optimization methods, including PRM, RRT, A*, and potential field
+      - Applied state estimation algorithms (KF, EKF, UKF, MHE) to achieve high-accuracy estimation of the manipulator position.
+  
   - position: Undergraduate Research Assistant
     company_name: Peking University
     company_url: ''
@@ -133,7 +158,9 @@ work:
     date_start: 2016-02-01
     date_end: 2017-06-30
     summary: |
-      - Worked on experimental and simulation study of methanol MILD combustion in boilers, under the supervision of Prof. Jianchun Mi at the Laboratory of Turbulence and Complex Systems.
+      Computational fluid dynamics of MILD combustion:
+      - Built high-fidelity 3D models of boilers and performed CFD simulations of methanol MILD combustion under varying operating conditions.
+      - Conducted experimental validation in a mid-scale boiler, demonstrating higher thermal efficiency and lower emissions compared to traditional combustion.
 
   - position: Summer Research Intern
     company_name: The Chinese University of Hong Kong
@@ -142,7 +169,8 @@ work:
     date_start: 2016-07-01
     date_end: 2016-08-31
     summary: |
-      - Worked on harvesting kinetic energy from human motion and vibrations under the supervision of Prof. Wei-Hsin Liao.
+      Human kinetic energy harvesting:
+      - Designed a frameork to collect kinetic energy from human motion and vibrations under the supervision of Prof. Wei-Hsin Liao.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
