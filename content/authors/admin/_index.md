@@ -147,7 +147,7 @@ work:
     date_end: 2018-12-31
     summary: |
       Robot kinematics and dynamics:
-      - Implemented PID control for robotic manipulators in joint-space and Cartesian-space, and designed a whole-body controller based on quadratic programming to satisfy physical and task constraints.
+      - Implemented PID control for robotic manipulators in joint-space and Cartesian-space.
       - Generated optimal manipulator trajectories in cluttered environments using advanced planning and optimization methods, including PRM, RRT, A*, and potential field
       - Applied state estimation algorithms (KF, EKF, UKF, MHE) to achieve high-accuracy estimation of the manipulator position.
   
