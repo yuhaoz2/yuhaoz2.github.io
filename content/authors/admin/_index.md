@@ -110,6 +110,7 @@ work:
       - Accelerated robustness and sensitivity analysis of large-scale neural networks by 10x compared to baseline tools, through a novel local NN compression method and MILP cutting-plane techniques.
       - Integrated verification results into controller design, achieving provably safe goal-reaching and obstacle avoidance for robotic systems with machine learning components.
       - Applied parallelization (CUDA, OpenMP) to accelerate Monte Carlo reachability and real-time state estimation for high-dimensional nonlinear systems.
+      - Supervised undergraduate research on optimizing algorithm runtime and scalability; guided one mentee to co-author a publication in a top venue
 
       Robust stability of neural network control systems: 
       - Derived new robust stability conditions via Linear Matrix Inequalities and quadratic constraints, enlarging the certified stability region by 5x over baseline methods.
