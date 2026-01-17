@@ -274,4 +274,5 @@ I am currently pursuing a Ph.D. in Mechanical Engineering at the <a href="https:
 I specialize in the theoretical analysis and application of autonomous and controlled systems and familiar with various programming languages, including MATLAB, Python, and C. My research focuses on control systems, incorporating optimization and machine learning techniques. The goal of my research is to develop principled analysis and control methodologies for building trustworthy autonomous intelligent systems.
 <!-- In high school, I won second prize in the 2012 National High School Mathematics Competition and ranked in the top 0.1% on the National Higher Education Entrance Examination. -->
 
-I am actively seeking full-time opportunities beginning in early 2026. Feel free to contact me at <a href="mailto:yuhao.zhang2@wisc.edu" target="_blank">yuhao.zhang2[at]wisc[dot]edu</a> for connections and collaboration!
+<!-- I am actively seeking full-time opportunities beginning in early 2026. -->
+Feel free to contact me at <a href="mailto:yuhao.zhang2@wisc.edu" target="_blank">yuhao.zhang2[at]wisc[dot]edu</a> for connections and collaboration!
