@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Senior R&D Mechanical Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Wisconsin-Madison
-    url: https://www.wisc.edu
+  - name: Halliburton
+    url: https://www.halliburton.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -45,8 +45,8 @@ profiles:
     url: https://github.com/yuhaoz2
 
 interests:
+  - Drilling automation
   - Autonomous systems and controls
-  - Optimization and high-performance computation
   - Provably correct control design for safety-critical systems
   - Analysis, verification and control for learning-enabled systems
 
@@ -54,7 +54,7 @@ education:
   - area: PhD Mechenical Engineering
     institution: University of Wisconsin-Madison
     date_start: 2020-09-01
-    date_end: 2025-12-31
+    date_end: 2026-02-06
     summary: |
       Advised by Prof. Xiangru Xu at the UW ARC Lab. My research focus on safety and stability analysis of controlled system with Artificial Neural Network components.
 
@@ -94,12 +94,21 @@ education:
       - Data Structure and Algorithm
       - Numerical Simulation
 work:
+  - position: Senior R&D Mechanical Engineer
+    company_name: Halliburton
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-02-16
+    date_end: ''
+    summary: |
+      - Drilling automation
+
   - position: Research Assistant
     company_name: University of Wisconsin-Madison
     company_url: ''
     company_logo: ''
     date_start: 2020-09-01
-    date_end: ''
+    date_end: 2026-02-06
     summary: |2-
       Safety-critical control with measurement and actuation uncertainties:
       - Developed a provably safe feedback controller using sampled-data Control Barrier Functions (CBFs) and convex optimization for nonlinear systems with measurement and actuation uncertainties.
@@ -269,10 +278,13 @@ awards:
 
 ## About Me
 
-I am currently pursuing a Ph.D. in Mechanical Engineering at the <a href="https://www.wisc.edu" target="_blank">University of Wisconsin–Madison</a>, conducting research at the <a href="https://xu.me.wisc.edu/" target="_blank">UW ARC Lab</a>, under the guidance of Prof. Xiangru Xu. I earned my MSE in Mechanical Engineering from the <a href="https://umich.edu/" target="_blank">University of Michigan–Ann Arbor</a> in 2019, where I was mentored by <a href="https://web.eecs.umich.edu/~necmiye/" target="_blank">Prof. Necmiye Ozay</a> and <a href="https://websites.umich.edu/~jeannin/" target="_blank">Prof. Jean-Baptiste Jeannin</a>. Prior to that, I completed my Bachelor of Engineering in Energy and Power Engineering at <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>, with a double major in Economics from the <a href="https://en.nsd.pku.edu.cn/" target="_blank">National School of Development</a>, in 2017.
+<!--
+I am currently pursuing a Ph.D. in Mechanical Engineering at the <a href="https://www.wisc.edu" target="_blank">University of Wisconsin–Madison</a>, conducting research at the <a href="https://xu.me.wisc.edu/" target="_blank">UW ARC Lab</a>, under the guidance of Prof. Xiangru Xu. I earned my MSE in Mechanical Engineering from the <a href="https://umich.edu/" target="_blank">University of Michigan–Ann Arbor</a> in 2019, where I was mentored by <a href="https://web.eecs.umich.edu/~necmiye/" target="_blank">Prof. Necmiye Ozay</a> and <a href="https://websites.umich.edu/~jeannin/" target="_blank">Prof. Jean-Baptiste Jeannin</a>. Prior to that, I completed my Bachelor of Engineering in Energy and Power Engineering at <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>, with a double major in Economics from the <a href="https://en.nsd.pku.edu.cn/" target="_blank">National School of Development</a>, in 2017.-->
 
-I specialize in the theoretical analysis and application of autonomous and controlled systems and familiar with various programming languages, including MATLAB, Python, and C. My research focuses on control systems, incorporating optimization and machine learning techniques. The goal of my research is to develop principled analysis and control methodologies for building trustworthy autonomous intelligent systems.
+I am a Senior R&D Mechanical Engineer at <a href="https://www.halliburton.com/" target="_blank">Halliburton's</a> Advanced Controls Center of Excellence, where I develop advanced control and engineering solutions for drilling automation. mation. I earned my Ph.D. in Mechanical Engineering from the <a href="https://www.wisc.edu" target="_blank">University of Wisconsin–Madison</a> under the guidance of Prof. Xiangru Xu. I received my MSE in Mechanical Engineering from the <a href="https://umich.edu/" target="_blank">University of Michigan–Ann Arbor</a> in 2019, where I was mentored by <a href="https://web.eecs.umich.edu/~necmiye/" target="_blank">Prof. Necmiye Ozay</a> and <a href="https://websites.umich.edu/~jeannin/" target="_blank">Prof. Jean-Baptiste Jeannin</a>. Prior to that, I completed my Bachelor of Engineering in Energy and Power Engineering at <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>, with a double major in Economics from the <a href="https://en.nsd.pku.edu.cn/" target="_blank">National School of Development</a>, in 2017.
+
+I specialize in the theoretical analysis and application of autonomous and controlled systems and familiar with various programming languages, including MATLAB, Python, and C. <!--My research focuses on control systems, incorporating optimization and machine learning techniques. The goal of my research is to develop principled analysis and control methodologies for building trustworthy autonomous intelligent systems.-->
 <!-- In high school, I won second prize in the 2012 National High School Mathematics Competition and ranked in the top 0.1% on the National Higher Education Entrance Examination. -->
 
 <!-- I am actively seeking full-time opportunities beginning in early 2026. -->
-Feel free to contact me at <a href="mailto:yuhao.zhang2@wisc.edu" target="_blank">yuhao.zhang2[at]wisc[dot]edu</a> for connections and collaboration!
+<!--Feel free to contact me at <a href="mailto:yuhao.zhang2@wisc.edu" target="_blank">yuhao.zhang2[at]wisc[dot]edu</a> for connections and collaboration!-->
